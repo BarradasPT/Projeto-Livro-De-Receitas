@@ -1,0 +1,6 @@
+@Projeto_Livro_De_Receitas_HostAddress = http://localhost:5233
+
+GET {{Projeto_Livro_De_Receitas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
